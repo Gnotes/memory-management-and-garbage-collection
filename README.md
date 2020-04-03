@@ -20,7 +20,7 @@
 
 > 池 (pool) : 存放常量，即基本数据类型的值，一般也归为“栈”中
 
-> 基础数据类型： Number String Null Undefined Boolean
+> 基础数据类型： Number String Null Undefined Boolean Symbol
 
 示例:
 
